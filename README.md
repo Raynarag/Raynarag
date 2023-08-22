@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raynarag
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning html/ css/ php
-- 💞️ I’m looking to collaborate on no conhecimento e em novas experiências
+- 💞️ I’m looking to collaborate on conhecimento e em novas experiências
 - 📫 How to reach me LINKEDIN in/raynarag
 
 <!---
